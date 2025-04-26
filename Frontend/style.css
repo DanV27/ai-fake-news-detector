@@ -1,0 +1,11 @@
+body {
+    background: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+textarea::placeholder {
+    color: #6c757d;
+}
