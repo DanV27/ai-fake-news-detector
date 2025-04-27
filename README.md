@@ -5,15 +5,10 @@ An AI-powered web app that detects whether a news article is **Fake** or **Real*
 ---
 
 ## Live Demo
-![Fake News Detector Demo](ai-fake-news-detector/Frontend/demo.gif)
+![Fake News Detector Demo](https://github.com/DanV27/ai-fake-news-detector/blob/main/Frontend/demo.gif)
 
 
----
 
-## Screenshots
-
-![Fake News Detector Screenshot](path-to-screenshot.png)  
-*Prediction based on pasted text or URL with a preview and recent history.*
 
 ---
 
